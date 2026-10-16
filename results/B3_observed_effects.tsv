@@ -1,0 +1,10 @@
+comparison	n_altered	n_wt	observed_d	power
+BAP1 mut vs CD8_T	22	56	0.011	0.0502
+BAP1 mut vs IFNg	22	56	0.037	0.0525
+BAP1 mut vs checkpoint	22	56	0.084	0.0629
+NF2 mut vs CD8_T	19	59	0.124	0.0757
+NF2 mut vs IFNg	19	59	0.341	0.2529
+NF2 mut vs macrophage	19	59	0.383	0.3060
+CDKN2A del vs EMT	36	51	0.882	0.9818
+CDKN2A del vs PROLIF	36	51	0.995	0.9955
+CDKN2A del vs FIBROBLAST	36	51	0.804	0.9585

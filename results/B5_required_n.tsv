@@ -1,0 +1,4 @@
+effect_class	d	n_required_p0.50	n_required_p0.30	n_required_p0.20	n_required_p0.10
+large	0.90	40	46	64	106
+medium	0.50	126	150	198	346
+small	0.30	350	416	546	966

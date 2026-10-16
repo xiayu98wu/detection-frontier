@@ -1,0 +1,640 @@
+{
+  "power / underpowered": [
+    {
+      "pmid": "35866376",
+      "title": "Interventions for managing medication-related osteonecrosis of the jaw.",
+      "journal": "Cochrane Database Syst Rev",
+      "year": "2022",
+      "author": "Beth-Tasdogan NH"
+    },
+    {
+      "pmid": "32205417",
+      "title": "DEqMS: A Method for Accurate Variance Estimation in Differential Protein Expression Analysis.",
+      "journal": "Mol Cell Proteomics",
+      "year": "2020",
+      "author": "Zhu Y"
+    },
+    {
+      "pmid": "37080969",
+      "title": "Integrated transcriptome landscape of ALS identifies genome instability linked to TDP-43 pathology.",
+      "journal": "Nat Commun",
+      "year": "2023",
+      "author": "Ziff OJ"
+    },
+    {
+      "pmid": "39920506",
+      "title": "A statistical framework for multi-trait rare variant analysis in large-scale whole-genome sequencing studies.",
+      "journal": "Nat Comput Sci",
+      "year": "2025",
+      "author": "Li X"
+    },
+    {
+      "pmid": "36452056",
+      "title": "Statistical considerations for repeatability and reproducibility of quantitative imaging biomarkers.",
+      "journal": "BJR Open",
+      "year": "2022",
+      "author": "Ye S"
+    },
+    {
+      "pmid": "37340002",
+      "title": "Pan-cancer and cross-population genome-wide association studies dissect shared genetic backgrounds underlying carcinogenesis.",
+      "journal": "Nat Commun",
+      "year": "2023",
+      "author": "Sato G"
+    },
+    {
+      "pmid": "35208605",
+      "title": "A Systematic Review of Candidate Genes for Major Depression.",
+      "journal": "Medicina (Kaunas)",
+      "year": "2022",
+      "author": "Norkeviciene A"
+    },
+    {
+      "pmid": "26289217",
+      "title": "Next-generation prognostic assessment for diffuse large B-cell lymphoma.",
+      "journal": "Future Oncol",
+      "year": "2015",
+      "author": "Staton AD"
+    }
+  ],
+  "TCGA rare cancer": [
+    {
+      "pmid": "33934848",
+      "title": "Uterine serous carcinoma.",
+      "journal": "Gynecol Oncol",
+      "year": "2021",
+      "author": "Bogani G"
+    },
+    {
+      "pmid": "28162975",
+      "title": "Comprehensive Molecular Characterization of Pheochromocytoma and Paraganglioma.",
+      "journal": "Cancer Cell",
+      "year": "2017",
+      "author": "Fishbein L"
+    },
+    {
+      "pmid": "40223054",
+      "title": "Integrative eQTL and Mendelian randomization analysis reveals key genetic markers in mesothelioma.",
+      "journal": "Respir Res",
+      "year": "2025",
+      "author": "Li J"
+    },
+    {
+      "pmid": "41811692",
+      "title": "Targeting the Non-Homologous End Joining Pathway Sensitizes MDM2-Amplified Liposarcoma to Doxorubicin by Enhancing p53-Mediated Senescence.",
+      "journal": "Cancer Res",
+      "year": "2026",
+      "author": "Jalving T"
+    },
+    {
+      "pmid": "33517897",
+      "title": "Pan-cancer detection of driver genes at the single-patient resolution.",
+      "journal": "Genome Med",
+      "year": "2021",
+      "author": "Nulsen J"
+    },
+    {
+      "pmid": "32345347",
+      "title": "A scoping review and proposed workflow for multi-omic rare disease research.",
+      "journal": "Orphanet J Rare Dis",
+      "year": "2020",
+      "author": "Kerr K"
+    },
+    {
+      "pmid": "41516312",
+      "title": "Ephrin Receptors and Ephrin Ligands in Uveal Melanoma: A Big Data Analysis Using Web Resources.",
+      "journal": "Int J Mol Sci",
+      "year": "2025",
+      "author": "Mandrakis G"
+    },
+    {
+      "pmid": "34745953",
+      "title": "Re-Identification of Patient Subgroups in Uveal Melanoma.",
+      "journal": "Front Oncol",
+      "year": "2021",
+      "author": "Nguyen THY"
+    }
+  ],
+  "absence of evidence": [
+    {
+      "pmid": "7647644",
+      "title": "Absence of evidence is not evidence of absence.",
+      "journal": "BMJ",
+      "year": "1995",
+      "author": "Altman DG"
+    },
+    {
+      "pmid": "27737490",
+      "title": "Hyperbaric oxygen therapy for people with autism spectrum disorder (ASD).",
+      "journal": "Cochrane Database Syst Rev",
+      "year": "2016",
+      "author": "Xiong T"
+    },
+    {
+      "pmid": "36800908",
+      "title": "Comparative effectiveness in multiple sclerosis: A methodological comparison.",
+      "journal": "Mult Scler",
+      "year": "2023",
+      "author": "Roos I"
+    },
+    {
+      "pmid": "40754987",
+      "title": "Outcomes of specialist physiotherapy for functional motor disorder: the Physio4FMD RCT.",
+      "journal": "Health Technol Assess",
+      "year": "2025",
+      "author": "Nielsen G"
+    },
+    {
+      "pmid": "40493280",
+      "title": "Prevalence and risk factors of chronic kidney disease of unknown etiology in Northeast Thailand.",
+      "journal": "J Nephrol",
+      "year": "2025",
+      "author": "Cha'on U"
+    },
+    {
+      "pmid": "21392407",
+      "title": "Gene expression in human sepsis: what have we learned?",
+      "journal": "Crit Care",
+      "year": "2011",
+      "author": "Russell JA"
+    },
+    {
+      "pmid": "27562477",
+      "title": "Therapeutic exercises for affecting post-treatment swallowing in people treated for advanced-stage head and neck cancers.",
+      "journal": "Cochrane Database Syst Rev",
+      "year": "2016",
+      "author": "Perry A"
+    },
+    {
+      "pmid": "39890245",
+      "title": "Prevalence and demographics of 331 rare diseases and associated COVID-19-related mortality among 58 million individuals: a nationwide retrospective observational study.",
+      "journal": "Lancet Digit Health",
+      "year": "2025",
+      "author": "Thygesen JH"
+    }
+  ],
+  "winner's curse": [
+    {
+      "pmid": "37721937",
+      "title": "Review and further developments in statistical corrections for Winner's Curse in genetic association studies.",
+      "journal": "PLoS Genet",
+      "year": "2023",
+      "author": "Forde A"
+    },
+    {
+      "pmid": "18703928",
+      "title": "Curses--winner's and otherwise--in genetic epidemiology.",
+      "journal": "Epidemiology",
+      "year": "2008",
+      "author": "Kraft P"
+    },
+    {
+      "pmid": "26704670",
+      "title": "Vincristine pharmacogenomics: 'winner's curse' or a different phenotype?",
+      "journal": "Pharmacogenet Genomics",
+      "year": "2016",
+      "author": "Diouf B"
+    },
+    {
+      "pmid": "19851339",
+      "title": "Meta-analysis of genetic association studies: methodologies, between-study heterogeneity and winner's curse.",
+      "journal": "J Hum Genet",
+      "year": "2009",
+      "author": "Nakaoka H"
+    },
+    {
+      "pmid": "19140131",
+      "title": "Quantifying and correcting for the winner's curse in genetic association studies.",
+      "journal": "Genet Epidemiol",
+      "year": "2009",
+      "author": "Xiao R"
+    },
+    {
+      "pmid": "30189032",
+      "title": "Power, false discovery rate and Winner's Curse in eQTL studies.",
+      "journal": "Nucleic Acids Res",
+      "year": "2018",
+      "author": "Huang QQ"
+    },
+    {
+      "pmid": "30060076",
+      "title": "Combining common genetic variants and non-genetic risk factors to predict risk of cutaneous melanoma.",
+      "journal": "Hum Mol Genet",
+      "year": "2018",
+      "author": "Gu F"
+    },
+    {
+      "pmid": "36250793",
+      "title": "Accurate modeling of replication rates in genome-wide association studies by accounting for Winner's Curse and study-specific heterogeneity.",
+      "journal": "G3 (Bethesda)",
+      "year": "2022",
+      "author": "Zou J"
+    }
+  ],
+  "study size effect estimates": [
+    {
+      "pmid": "28744766",
+      "title": "A meta-analysis of the survival-processing advantage in memory.",
+      "journal": "Psychon Bull Rev",
+      "year": "2018",
+      "author": "Scofield JE"
+    },
+    {
+      "pmid": "35188810",
+      "title": "Secondary Cytoreductive Surgery in Platinum-Sensitive Recurrent Ovarian Cancer: A Meta-Analysis.",
+      "journal": "J Clin Oncol",
+      "year": "2022",
+      "author": "Baek MH"
+    },
+    {
+      "pmid": "33201873",
+      "title": "Food insecurity and hypertension: A systematic review and meta-analysis.",
+      "journal": "PLoS One",
+      "year": "2020",
+      "author": "Beltrán S"
+    },
+    {
+      "pmid": "26741512",
+      "title": "Pre-emptive correction for haemodialysis arteriovenous access stenosis.",
+      "journal": "Cochrane Database Syst Rev",
+      "year": "2016",
+      "author": "Ravani P"
+    },
+    {
+      "pmid": "16689990",
+      "title": "The fading of reported effectiveness. A meta-analysis of randomised controlled trials.",
+      "journal": "BMC Med Res Methodol",
+      "year": "2006",
+      "author": "Gehr BT"
+    },
+    {
+      "pmid": "34656237",
+      "title": "Absence of small study effects in neurosurgical meta-analyses: A meta-epidemiological study.",
+      "journal": "J Clin Neurosci",
+      "year": "2021",
+      "author": "To MS"
+    },
+    {
+      "pmid": "26854889",
+      "title": "When positive studies of novel therapies are subsequently nullified: cumulative meta-analyses in preeclampsia.",
+      "journal": "Clin Invest Med",
+      "year": "2015",
+      "author": "Etwel F"
+    },
+    {
+      "pmid": "32118818",
+      "title": "A systematic review and meta-analysis of traumatic intracranial hemorrhage in patients taking prehospital antiplatelet therapy: Is there a role for platelet transfusions?",
+      "journal": "J Trauma Acute Care Surg",
+      "year": "2020",
+      "author": "Alvikas J"
+    }
+  ],
+  "sample size justification": [
+    {
+      "pmid": "38449496",
+      "title": "Sample size determination for conducting a pilot study to assess reliability of a questionnaire.",
+      "journal": "Restor Dent Endod",
+      "year": "2024",
+      "author": "Bujang MA"
+    },
+    {
+      "pmid": "39914499",
+      "title": "Society for Cardiovascular Magnetic Resonance reference values (\"normal values\") in cardiovascular magnetic resonance: 2025 update.",
+      "journal": "J Cardiovasc Magn Reson",
+      "year": "2025",
+      "author": "Kawel-Boehm N"
+    },
+    {
+      "pmid": "36951858",
+      "title": "A Simple Guide to Effect Size Measures.",
+      "journal": "JAMA Otolaryngol Head Neck Surg",
+      "year": "2023",
+      "author": "Kallogjeri D"
+    },
+    {
+      "pmid": "36511921",
+      "title": "Guidelines for Reporting Outcomes in Trial Reports: The CONSORT-Outcomes 2022 Extension.",
+      "journal": "JAMA",
+      "year": "2022",
+      "author": "Butcher NJ"
+    },
+    {
+      "pmid": "19092709",
+      "title": "Progressive statistics for studies in sports medicine and exercise science.",
+      "journal": "Med Sci Sports Exerc",
+      "year": "2009",
+      "author": "Hopkins WG"
+    },
+    {
+      "pmid": "38415609",
+      "title": "Nurses' ethical responsibilities: Whistleblowing and advocacy in patient safety.",
+      "journal": "Nurs Ethics",
+      "year": "2024",
+      "author": "Ibrahim AM"
+    },
+    {
+      "pmid": "27683581",
+      "title": "Optimally estimating the sample mean from the sample size, median, mid-range, and/or mid-quartile range.",
+      "journal": "Stat Methods Med Res",
+      "year": "2018",
+      "author": "Luo D"
+    },
+    {
+      "pmid": "26604186",
+      "title": "Practical guide to sample size calculations: non-inferiority and equivalence trials.",
+      "journal": "Pharm Stat",
+      "year": "2016",
+      "author": "Flight L"
+    }
+  ],
+  "mesothelioma BAP1 immune": [
+    {
+      "pmid": "40578509",
+      "title": "Immune Composition and Immunotherapy Outcomes of Mesothelioma With BAP1, CDKN2A, MTAP, and NF2 Alterations.",
+      "journal": "J Thorac Oncol",
+      "year": "2025",
+      "author": "Dagogo-Jack I"
+    },
+    {
+      "pmid": "35636988",
+      "title": "Pleural mesothelioma.",
+      "journal": "Med Clin (Barc)",
+      "year": "2022",
+      "author": "Porcel JM"
+    },
+    {
+      "pmid": "39407894",
+      "title": "Malignant Pleural Mesothelioma: A Comprehensive Review.",
+      "journal": "J Clin Med",
+      "year": "2024",
+      "author": "Jain M"
+    },
+    {
+      "pmid": "40775245",
+      "title": "Pleural mesothelioma.",
+      "journal": "Nat Rev Dis Primers",
+      "year": "2025",
+      "author": "Fennell DA"
+    },
+    {
+      "pmid": "39842618",
+      "title": "An overview of BAP1 biological functions and current therapeutics.",
+      "journal": "Biochim Biophys Acta Rev Cancer",
+      "year": "2025",
+      "author": "Elsayed AM"
+    },
+    {
+      "pmid": "30322867",
+      "title": "Integrative Molecular Characterization of Malignant Pleural Mesothelioma.",
+      "journal": "Cancer Discov",
+      "year": "2018",
+      "author": "Hmeljak J"
+    },
+    {
+      "pmid": "34249695",
+      "title": "Tumor Immune Microenvironment and Genetic Alterations in Mesothelioma.",
+      "journal": "Front Oncol",
+      "year": "2021",
+      "author": "Hiltbrunner S"
+    },
+    {
+      "pmid": "38715965",
+      "title": "BAP1 Deficiency Inflames the Tumor Immune Microenvironment and Is a Candidate Biomarker for Immunotherapy Response in Malignant Pleural Mesothelioma.",
+      "journal": "JTO Clin Res Rep",
+      "year": "2024",
+      "author": "Xu D"
+    }
+  ],
+  "mesothelioma CDKN2A prognosis": [
+    {
+      "pmid": "34465883",
+      "title": "Pleural mesothelioma classification-update and challenges.",
+      "journal": "Mod Pathol",
+      "year": "2022",
+      "author": "Dacic S"
+    },
+    {
+      "pmid": "35636988",
+      "title": "Pleural mesothelioma.",
+      "journal": "Med Clin (Barc)",
+      "year": "2022",
+      "author": "Porcel JM"
+    },
+    {
+      "pmid": "39407894",
+      "title": "Malignant Pleural Mesothelioma: A Comprehensive Review.",
+      "journal": "J Clin Med",
+      "year": "2024",
+      "author": "Jain M"
+    },
+    {
+      "pmid": "40775245",
+      "title": "Pleural mesothelioma.",
+      "journal": "Nat Rev Dis Primers",
+      "year": "2025",
+      "author": "Fennell DA"
+    },
+    {
+      "pmid": "38586983",
+      "title": "Guidelines for Pathologic Diagnosis of Mesothelioma: 2023 Update of the Consensus Statement From the International Mesothelioma Interest Group.",
+      "journal": "Arch Pathol Lab Med",
+      "year": "2024",
+      "author": "Husain AN"
+    },
+    {
+      "pmid": "35026477",
+      "title": "The 2021 WHO Classification of Tumors of the Pleura: Advances Since the 2015 Classification.",
+      "journal": "J Thorac Oncol",
+      "year": "2022",
+      "author": "Sauter JL"
+    },
+    {
+      "pmid": "40578509",
+      "title": "Immune Composition and Immunotherapy Outcomes of Mesothelioma With BAP1, CDKN2A, MTAP, and NF2 Alterations.",
+      "journal": "J Thorac Oncol",
+      "year": "2025",
+      "author": "Dagogo-Jack I"
+    },
+    {
+      "pmid": "40877968",
+      "title": "CDKN2A deletion is associated with immune desertification in diffuse pleural mesothelioma.",
+      "journal": "J Exp Clin Cancer Res",
+      "year": "2025",
+      "author": "Torricelli F"
+    }
+  ],
+  "multiplicity testing cancer genomics": [
+    {
+      "pmid": "37940228",
+      "title": "Plasma Proteomics to Identify Drug Targets for Ischemic Heart Disease.",
+      "journal": "J Am Coll Cardiol",
+      "year": "2023",
+      "author": "Mazidi M"
+    },
+    {
+      "pmid": "28077402",
+      "title": "Elemental metabolomics.",
+      "journal": "Brief Bioinform",
+      "year": "2018",
+      "author": "Zhang P"
+    },
+    {
+      "pmid": "41347874",
+      "title": "Effect of Pegcetacoplan on Aqueous Humor Proteome in Geographic Atrophy: A Prospective Exploration.",
+      "journal": "Invest Ophthalmol Vis Sci",
+      "year": "2025",
+      "author": "Trivizki O"
+    },
+    {
+      "pmid": "31727138",
+      "title": "Novel risk genes and mechanisms implicated by exome sequencing of 2572 individuals with pulmonary arterial hypertension.",
+      "journal": "Genome Med",
+      "year": "2019",
+      "author": "Zhu N"
+    },
+    {
+      "pmid": "24399688",
+      "title": "Multiple hypothesis testing in genomics.",
+      "journal": "Stat Med",
+      "year": "2014",
+      "author": "Goeman JJ"
+    },
+    {
+      "pmid": "26867108",
+      "title": "Pathway-based analyses.",
+      "journal": "BMC Genet",
+      "year": "2016",
+      "author": "Kent JW Jr"
+    },
+    {
+      "pmid": "33423574",
+      "title": "Metabolomics Insights in Early Childhood Caries.",
+      "journal": "J Dent Res",
+      "year": "2021",
+      "author": "Heimisdottir LH"
+    },
+    {
+      "pmid": "32750873",
+      "title": "Significance-Based Essential Protein Discovery.",
+      "journal": "IEEE/ACM Trans Comput Biol Bioinform",
+      "year": "2022",
+      "author": "Liu Y"
+    }
+  ],
+  "preregistration observational": [
+    {
+      "pmid": "41814431",
+      "title": "The impact of sports participation on psychological health and social outcomes in children and adolescents: a systematic review and update to the \"Mental Health through Sport\" conceptual model.",
+      "journal": "Syst Rev",
+      "year": "2026",
+      "author": "Wade L"
+    },
+    {
+      "pmid": "38591841",
+      "title": "[Registration of national health registry-based research].",
+      "journal": "Lakartidningen",
+      "year": "2024",
+      "author": "Axfors C"
+    },
+    {
+      "pmid": "32175523",
+      "title": "Assessment of transparent and reproducible research practices in the psychiatry literature.",
+      "journal": "Gen Psychiatr",
+      "year": "2020",
+      "author": "Sherry CE"
+    },
+    {
+      "pmid": "35042570",
+      "title": "Interpretation of observational studies: the good, the bad and the sensational.",
+      "journal": "Proc Nutr Soc",
+      "year": "2022",
+      "author": "Ruxton C"
+    },
+    {
+      "pmid": "38794897",
+      "title": "Building transparency and reproducibility into the practice of pharmacoepidemiology and outcomes research.",
+      "journal": "Am J Epidemiol",
+      "year": "2024",
+      "author": "Wang SV"
+    },
+    {
+      "pmid": "41358794",
+      "title": "Real-world evidence and observational studies: Methodological challenges in clinical research.",
+      "journal": "Eur J Clin Invest",
+      "year": "2026",
+      "author": "Zoccali C"
+    },
+    {
+      "pmid": "36686547",
+      "title": "Estimating the effect of COVID-19 on trial design characteristics: a registered report.",
+      "journal": "R Soc Open Sci",
+      "year": "2023",
+      "author": "Smith JA"
+    },
+    {
+      "pmid": "41672966",
+      "title": "Lithium effects in the frontolimbic circuitry: a systematic review of neuroimaging findings in bipolar disorder.",
+      "journal": "Transl Psychiatry",
+      "year": "2026",
+      "author": "Boere E"
+    }
+  ],
+  "underpowered replication failure": [
+    {
+      "pmid": "23571845",
+      "title": "Power failure: why small sample size undermines the reliability of neuroscience.",
+      "journal": "Nat Rev Neurosci",
+      "year": "2013",
+      "author": "Button KS"
+    },
+    {
+      "pmid": "35296861",
+      "title": "Reproducible brain-wide association studies require thousands of individuals.",
+      "journal": "Nature",
+      "year": "2022",
+      "author": "Marek S"
+    },
+    {
+      "pmid": "41090997",
+      "title": "Statistical power analysis in exercise science.",
+      "journal": "J Sports Sci",
+      "year": "2025",
+      "author": "Uehata A"
+    },
+    {
+      "pmid": "39215207",
+      "title": "Replicability and generalizability in population psychiatric neuroimaging.",
+      "journal": "Neuropsychopharmacology",
+      "year": "2024",
+      "author": "Marek S"
+    },
+    {
+      "pmid": "30321017",
+      "title": "What meta-analyses reveal about the replicability of psychological research.",
+      "journal": "Psychol Bull",
+      "year": "2018",
+      "author": "Stanley TD"
+    },
+    {
+      "pmid": "33488349",
+      "title": "Cortical Thickness in Migraine: A Coordinate-Based Meta-Analysis.",
+      "journal": "Front Neurosci",
+      "year": "2020",
+      "author": "Sheng L"
+    },
+    {
+      "pmid": "29771554",
+      "title": "Perceived crisis and reforms: Issues, explanations, and remedies.",
+      "journal": "Psychol Bull",
+      "year": "2018",
+      "author": "De Boeck P"
+    },
+    {
+      "pmid": "30671781",
+      "title": "Understanding and Mitigating the Replication Crisis, for Environmental Epidemiologists.",
+      "journal": "Curr Environ Health Rep",
+      "year": "2019",
+      "author": "Bartell SM"
+    }
+  ]
+}

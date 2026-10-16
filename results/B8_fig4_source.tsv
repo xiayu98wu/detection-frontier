@@ -1,0 +1,21 @@
+layer	metric	value	p_value	n_num	n_den	detail
+DNA	BAP1_mut_prevalence	0.282051	NA	22	78	BAP1 mutation prevalence
+DNA	CDKN2A_homdel_prevalence	0.413793	NA	36	87	CDKN2A homozygous deletion prevalence
+RNA	BAP1_mRNA_mut_vs_wt	-0.313403	1.427e-01	22	56	BAP1 mRNA difference (mutant - wildtype)
+RNA	NF2_mRNA_mut_vs_wt	-0.493821	1.027e-02	19	59	NF2 mRNA difference (mutant - wildtype)
+RNA	SETD2_mRNA_mut_vs_wt	-0.964432	4.514e-04	8	70	SETD2 mRNA difference (mutant - wildtype)
+RNA	TP53_mRNA_mut_vs_wt	-0.628222	1.626e-03	11	67	TP53 mRNA difference (mutant - wildtype)
+DNA	BAP1_mut_x_CD8T_d	0.0111362	6.650e-01	22	56	BAP1 mutation vs CD8 T-cell score
+RNA	BAP1_mRNA_vs_CD8T_rho	-0.0435409	6.878e-01	87	87	BAP1 mRNA vs CD8 T-cell score (Spearman)
+Protein	BAP1_prot_vs_CD8_T_rho	0.0766548	5.515e-01	62	62	BAP1 protein vs CD8_T score (Spearman)
+Protein	BAP1_prot_vs_CHECKPT_rho	-0.0757734	5.561e-01	62	62	BAP1 protein vs CHECKPT score (Spearman)
+Protein	BAP1_prot_vs_IFN_G_rho	-0.0257614	8.418e-01	62	62	BAP1 protein vs IFN_G score (Spearman)
+Protein	BAP1_prot_vs_MACROPHAGE_rho	0.0578436	6.536e-01	62	62	BAP1 protein vs MACROPHAGE score (Spearman)
+Protein	BAP1_prot_vs_FIBROBLAST_rho	0.328377	7.083e-03	62	62	BAP1 protein vs FIBROBLAST score (Spearman)
+Protein	BAP1_prot_vs_EMT_rho	0.215485	8.740e-02	62	62	BAP1 protein vs EMT score (Spearman)
+Protein	BAP1_prot_vs_PROLIF_rho	-0.138578	2.784e-01	62	62	BAP1 protein vs PROLIF score (Spearman)
+Protein	BAP1_prot_vs_ANTIGEN_rho	-0.0261895	8.392e-01	62	62	BAP1 protein vs ANTIGEN score (Spearman)
+Protein	RPPA_dmin_pBAP1	0.797569	NA	17	45	protein-layer detection limit at BAP1 prevalence, n=62
+Protein	RPPA_min_detectable_rho	0.349378	NA	62	62	smallest Spearman rho detectable at 80% power, n=62
+Protein	rho_implied_by_medium_effect	0.220811	NA	22	56	rho implied by a d=0.5 two-group effect at 22 vs 56
+Reproduction	CDKN2A_del_rate_vs_published	0.413793	NA	36	87	ours 0.4138; published 0.4150 (n=89, JECCR 2025); abs diff 0.0012

@@ -1,0 +1,13 @@
+scenario	config	n1	n2	n_total	delta_star	d_min_empirical	d_min_formula	error
+ideal normal	CDKN2A_del	36	51	87	0.633	0.614	0.610	+0.004
+ideal normal	CDKN2A_loss	48	39	87	0.633	0.602	0.604	-0.002
+ideal normal	BAP1_mut	22	56	78	0.742	0.710	0.705	+0.005
+ideal normal	balanced_ref	180	180	360	0.305	0.304	0.295	+0.009
+gene-set score	CDKN2A_del	36	51	87	0.586	0.568	0.610	-0.041
+gene-set score	CDKN2A_loss	48	39	87	0.570	0.554	0.604	-0.050
+gene-set score	BAP1_mut	22	56	78	0.664	0.645	0.705	-0.060
+gene-set score	balanced_ref	180	180	360	0.273	0.271	0.295	-0.024
+dropout-contaminated	CDKN2A_del	36	51	87	0.602	0.537	0.610	-0.072
+dropout-contaminated	CDKN2A_loss	48	39	87	0.602	0.535	0.604	-0.069
+dropout-contaminated	BAP1_mut	22	56	78	0.695	0.619	0.705	-0.086
+dropout-contaminated	balanced_ref	180	180	360	0.289	0.258	0.295	-0.037

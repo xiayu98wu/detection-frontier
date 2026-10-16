@@ -1,0 +1,15 @@
+# bulk / public data is downloaded, never committed
+data/
+*.tsv.gz
+*.maf
+*.tar.gz
+
+# office and OS cruft
+~$*
+Thumbs.db
+desktop.ini
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
